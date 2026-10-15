@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\C# home 8\bin\Debug\net10.0\C# home 8.exe
+C:\Users\Admin\Desktop\C# home 8\bin\Debug\net10.0\C# home 8.deps.json
+C:\Users\Admin\Desktop\C# home 8\bin\Debug\net10.0\C# home 8.runtimeconfig.json
+C:\Users\Admin\Desktop\C# home 8\bin\Debug\net10.0\C# home 8.dll
+C:\Users\Admin\Desktop\C# home 8\bin\Debug\net10.0\C# home 8.pdb
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.dll
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\refint\C# home 8.dll
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.pdb
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\C# home 8.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C# home 8\obj\Debug\net10.0\ref\C# home 8.dll
